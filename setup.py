@@ -5,7 +5,8 @@ setup(
     version="0.1.0",
     packages=find_packages(),
     install_requires=[
-        # Add any dependencies here
+        "biopython",
+        "numpy",
     ],
     author="Jasper August Tootsi",
     author_email="jasper.august.tootsi@ut.ee",
